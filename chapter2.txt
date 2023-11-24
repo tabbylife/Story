@@ -1,0 +1,2 @@
+git add fileName.txt (add file to staging area)
+git add . (add all file)
