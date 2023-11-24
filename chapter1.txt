@@ -1,2 +1,2 @@
-git init (init git file in dir)
-git status (see file status about git)
+git init (practice)
+git status (practice)
